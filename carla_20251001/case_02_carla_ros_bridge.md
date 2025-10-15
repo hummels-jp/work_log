@@ -16,7 +16,7 @@ ROS2 RVizアプリケーションでは、CARLAによって送信されたセン
     ros2 launch carla_ros_bridge  carla_ros_bridge_with_example_ego_vehicle.launch.py 
 
 ## 3. Start the rviz2 to see the sensor output data / RViz2を開始してセンサー出力データを確認
-    ros2 run rviz2 rviz2 -d /home/kotei/huqianqian/software/CARLA_0.9.13/carla_ros_bridge/src/ros-bridge/carla_ad_demo/config/carla_ad_demo_ros2.rviz 
+    ros2 run rviz2 rviz2 -d /home/kotei/huqianqian/software/Carla_0.9.15/CARLA_0.9.15/wk_ros_bridge/src/carla_ad_demo/config/carla_ad_demo_ros2.rviz 
 
 ## 4. Make the ego car into autopilot mode / エゴカーをオートパイロットモードにする
 The ego car can be in autonomous driving mode, and you can see the sensor data is changed according to the car position.  
