@@ -52,7 +52,7 @@ CutInFrom_right_Lane
 SignalizedJunctionRightTurn_1
 SignalizedJunctionRightTurn_2
 SignalizedJunctionRightTurn_3
-SignalizedJunctionRightTurn_4
+SignalizedJunctionRigh ros2 run rviz2 rviz2 -d /home/kotei/huqianqian/software/Carla_0.9.15/CARLA_0.9.15/wk_ros_bridge/src/carla_ad_demo/config/carla_ad_demo_ros2.rviz tTurn_4
 SignalizedJunctionRightTurn_5
 SignalizedJunctionRightTurn_6
 SignalizedJunctionRightTurn_7
